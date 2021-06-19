@@ -311,7 +311,7 @@ MonoBehaviour:
   weapon:
     name: Glock
     damage: 10
-    range: 100
+    range: 200
 --- !u!1 &3863250337370373431
 GameObject:
   m_ObjectHideFlags: 0
